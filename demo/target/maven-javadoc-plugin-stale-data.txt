@@ -1,0 +1,51 @@
+@options
+@packages
+-classpath
+'C:/Users/pablo/.m2/repository/com/google/code/gson/gson/2.13.2/gson-2.13.2.jar;C:/Users/pablo/.m2/repository/com/google/errorprone/error_prone_annotations/2.41.0/error_prone_annotations-2.41.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'c:/Users/pablo/OneDrive/Documentos/Universidad/4º/Programación III/Prueba-Maven/demo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'c:/Users/pablo/OneDrive/Documentos/Universidad/4º/Programación III/Prueba-Maven/demo/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'demo 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'c:/Users/pablo/OneDrive/Documentos/Universidad/4º/Programación III/Prueba-Maven/demo/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'demo 1.0-SNAPSHOT API'
+com.zarzamontero
+C:\Users\pablo\.m2\repository\com\google\code\gson\gson\2.13.2\gson-2.13.2.jar = 1765474535719
+C:\Users\pablo\.m2\repository\com\google\errorprone\error_prone_annotations\2.41.0\error_prone_annotations-2.41.0.jar = 1765474536764
+c:\Users\pablo\OneDrive\Documentos\Universidad\4º\Programación III\Prueba-Maven\demo\src\main\java = 1765473847524
+c:\Users\pablo\OneDrive\Documentos\Universidad\4º\Programación III\Prueba-Maven\demo\target\site\apidocs\allclasses-index.html = 1765475786988
+c:\Users\pablo\OneDrive\Documentos\Universidad\4º\Programación III\Prueba-Maven\demo\target\site\apidocs\allpackages-index.html = 1765475787021
+c:\Users\pablo\OneDrive\Documentos\Universidad\4º\Programación III\Prueba-Maven\demo\target\site\apidocs\copy.svg = 1765475787216
+c:\Users\pablo\OneDrive\Documentos\Universidad\4º\Programación III\Prueba-Maven\demo\target\site\apidocs\element-list = 1765475786826
+c:\Users\pablo\OneDrive\Documentos\Universidad\4º\Programación III\Prueba-Maven\demo\target\site\apidocs\help-doc.html = 1765475787109
+c:\Users\pablo\OneDrive\Documentos\Universidad\4º\Programación III\Prueba-Maven\demo\target\site\apidocs\index-all.html = 1765475787070
+c:\Users\pablo\OneDrive\Documentos\Universidad\4º\Programación III\Prueba-Maven\demo\target\site\apidocs\index.html = 1765475787085
+c:\Users\pablo\OneDrive\Documentos\Universidad\4º\Programación III\Prueba-Maven\demo\target\site\apidocs\link.svg = 1765475787219
+c:\Users\pablo\OneDrive\Documentos\Universidad\4º\Programación III\Prueba-Maven\demo\target\site\apidocs\member-search-index.js = 1765475787030
+c:\Users\pablo\OneDrive\Documentos\Universidad\4º\Programación III\Prueba-Maven\demo\target\site\apidocs\module-search-index.js = 1765475787024
+c:\Users\pablo\OneDrive\Documentos\Universidad\4º\Programación III\Prueba-Maven\demo\target\site\apidocs\overview-tree.html = 1765475786964
+c:\Users\pablo\OneDrive\Documentos\Universidad\4º\Programación III\Prueba-Maven\demo\target\site\apidocs\package-search-index.js = 1765475787026
+c:\Users\pablo\OneDrive\Documentos\Universidad\4º\Programación III\Prueba-Maven\demo\target\site\apidocs\script.js = 1765475787204
+c:\Users\pablo\OneDrive\Documentos\Universidad\4º\Programación III\Prueba-Maven\demo\target\site\apidocs\search-page.js = 1765475787227
+c:\Users\pablo\OneDrive\Documentos\Universidad\4º\Programación III\Prueba-Maven\demo\target\site\apidocs\search.html = 1765475787081
+c:\Users\pablo\OneDrive\Documentos\Universidad\4º\Programación III\Prueba-Maven\demo\target\site\apidocs\search.js = 1765475787224
+c:\Users\pablo\OneDrive\Documentos\Universidad\4º\Programación III\Prueba-Maven\demo\target\site\apidocs\stylesheet.css = 1765475787119
+c:\Users\pablo\OneDrive\Documentos\Universidad\4º\Programación III\Prueba-Maven\demo\target\site\apidocs\tag-search-index.js = 1765475787032
+c:\Users\pablo\OneDrive\Documentos\Universidad\4º\Programación III\Prueba-Maven\demo\target\site\apidocs\type-search-index.js = 1765475787028
